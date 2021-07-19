@@ -7,4 +7,6 @@
 5. Other than the domain name to pay, we can find free domain name from [here](https://www.freenom.com/).
 6. But now my domain is [https://atthana.github.io/static_page/](https://atthana.github.io/static_page/).
 ---
-### Reminder: In domain name we have to use default as `https://atthana.github.io/<repo_name>/`. <br>So we have to configure the repo name that convery to what you want to tell.
+### Reminder: 
+- In domain name we have to use default as `https://atthana.github.io/<repo_name>/`. <br>So we have to configure the repo name that convery to what you want to tell.
+- In my local repo will use `static_page` which is not same name as `homepage` in remote repo.
