@@ -10,3 +10,4 @@
 ### Reminder: 
 - In domain name we have to use default as `https://atthana.github.io/<repo_name>/`. <br>So we have to configure the repo name that convery to what you want to tell.
 - In my local repo will use `static_page` which is not same name as `homepage` in remote repo.
+- Right now I used Bootstrap sample from [here](https://startbootstrap.com/template/sb-admin) need to customize later.
